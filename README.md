@@ -3,3 +3,7 @@
 ## Semana 1
 Lab | Transistores BJT\
 Teo | Introducción a Git
+
+## Semana 1
+Lab | Amplificador clase A\
+Teo | Señales
